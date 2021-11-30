@@ -1,0 +1,32 @@
+{
+  "name": "log-cli",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "sbin0819 <sbinha123@gmail.com>",
+  "homepage": "https://github.com/sbin0819/mono_repo#readme",
+  "license": "ISC",
+  "bin": {
+    "log-cli": "lib/log-cli.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbin0819/mono_repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sbin0819/mono_repo/issues"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "log-core": "^1.0.0"
+  }
+}
