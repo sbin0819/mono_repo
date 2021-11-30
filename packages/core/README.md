@@ -1,11 +1,11 @@
-# `log-cli`
+# `core`
 
 > TODO: description
 
 ## Usage
 
 ```
-const logCli = require('log-cli');
+const core = require('core');
 
 // TODO: DEMONSTRATE API
 ```
