@@ -28,5 +28,6 @@
   "dependencies": {
     "commander": "^8.3.0",
     "log-core": "^1.0.2"
-  }
+  },
+  "gitHead": "3f65be5bf40ad652c0134dd5133a627ab3527b93"
 }
