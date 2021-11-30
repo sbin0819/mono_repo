@@ -1,6 +1,6 @@
 {
   "name": "log-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "sbin0819 <sbinha123@gmail.com>",
   "homepage": "https://github.com/sbin0819/mono_repo#readme",
@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "commander": "^8.3.0",
-    "log-core": "^1.0.0"
+    "log-core": "^1.0.1"
   }
 }
